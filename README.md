@@ -23,14 +23,16 @@ Langkah Import Database :
 
 ### Progress 13-02-2023
 - [Progress Part 2 : Menit 19.24](https://github.com/sandybuana03/UKK2023/raw/main/part%202%20menit%2019.24.zip)
-- [index.php](https://github.com/sandybuana03/UKK2023/raw/main/index.php)
-- [pengaduan.php](https://github.com/sandybuana03/UKK2023/raw/main/pengaduan.php)
+
 Langkah kerja :
 
 0. Download File
 1. Ekstrak ke folder htdocs
 2. Buka localhost/pengaduan_masyarakat
 
+
+- [index.php](https://github.com/sandybuana03/UKK2023/raw/main/index.php)
+- [pengaduan.php](https://github.com/sandybuana03/UKK2023/raw/main/pengaduan.php)
 
 ### Progress 14-02-2023
 - [pengaduan.php : Menit 30.18](https://github.com/sandybuana03/UKK2023/raw/main/pengaduan.php)
